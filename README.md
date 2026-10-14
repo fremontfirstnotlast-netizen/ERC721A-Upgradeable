@@ -137,4 +137,4 @@ Project Link: [https://github.com/chiru-labs/ERC721A-Upgradeable](https://github
 [issues-shield]: https://img.shields.io/github/issues/chiru-labs/ERC721A-Upgradeable.svg?style=for-the-badge
 [issues-url]: https://github.com/chiru-labs/ERC721A-Upgradeable/issues
 [license-shield]: https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge
-[license-url]: https://github.com/chiru-labs/ERC721A-Upgradeable/blob/main/LICENSE.txt
+[license-url]:   https://github.com/chiru-labs/ERC721A-Upgradeable/blob/main/LICENSE.txt
